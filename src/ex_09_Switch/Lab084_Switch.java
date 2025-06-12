@@ -18,7 +18,7 @@ public class Lab084_Switch {
 
         // Step1
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the day to 1 to 7");
+          System.out.println("Enter the day to 1 to 7");
 
         if (scanner.hasNextInt()) {
 
